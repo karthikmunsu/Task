@@ -1,3 +1,4 @@
+console.log("script added");
 window.onload = () => {
     if(window.salesiq.widgetcode && window.salesiq.domain) {
         window.$zoho = window.$zoho || {};
